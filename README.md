@@ -5,6 +5,7 @@
 
 <div>
 
+
  ### 🏷️ About Me 
 <!-- gmail -->
 <a href="mailto:joohyunjung0418@gmail.com">
@@ -64,6 +65,10 @@
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
   
 </div>
-<!—
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-jung-joo&show_icons=true&theme=radical) —>
+
+<br>
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-jung-joo&show_icons=true&theme=tokyonight)
+-->
 
