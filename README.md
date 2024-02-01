@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Figma-24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br>      
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+### 🛠️  DevOps
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 <!—
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-jung-joo&show_icons=true&theme=radical) —>
