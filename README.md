@@ -4,13 +4,24 @@
 </div>
 
 <div>
-  
-### 🏷️ About Me
+
+ ### 🏷️ About Me 
+<!-- gmail -->
+<a href="mailto:joohyunjung0418@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/>
+</a>
+<!-- 노션 자기소개 --> 
+<!-- <a href="https://hyunnnny.notion.site/my-mini-portfolio-b273eb8b3b114b21b7a303c14870d631?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a> -->
+<br>
 - Major : Computer & Data Science
-- Contact : <a href="mailto:joohyunjung0418@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=trre1827151@gmail.com"/></a>
-      
+
+<br>
+
+
 <!-- skills  -->
+
 ### 💻 Skills
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white" alt="kotlin" />
@@ -21,17 +32,22 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="css"/> <br>
-  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit learn&logoColor=white" alt="scikit-learn"/>
+
+<!-- ml / dl -->
+### 🤖  ML / DL
+  <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&logo=scikit learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="keras"/>
   
 <!-- tools  -->
 ### 🛠  Tools
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <br>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <br>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-24E1E?style=flat-square&logo=Figma&logoColor=white"/> <br>
